@@ -8,17 +8,15 @@
 
 // Given ab array of numbers and a given target. return the target if it's in the array or undefined if it's not
 function findNumber(array, target) {
-    const numsArr = [1,2,3,4,5,6];{
-    for (let i = 0, i < numsArr.length, i++) {
-        if (numsArr[]===target;
-            return
+    for (let i = 0, i < array.length, i++) {
+        if currNum[i] === target, {
+            return currNum;
     }
-    }
-    
-        
-
         }
-    
+            return undefined;
+    }
+    console.log([2,4,8.12,17] (4));
+    console.log([2,4,8.12,17] (18));
 
 
 // Given an array of numbers, return the first number that's bigger than 14 or undefined if no number is bigger than 14
