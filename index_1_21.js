@@ -20,8 +20,11 @@ function findNumber(array, target) {
 
 
 // Given an array of numbers, return the first number that's bigger than 14 or undefined if no number is bigger than 14
-
-
+function findFirstNumber (array) {
+    for (let i = 0; i = array.length; i++);
+    const 
+    {
+}
 
 // Given an array of strings, return the first string with length greater than 4 or undefined if no such string is found
 
