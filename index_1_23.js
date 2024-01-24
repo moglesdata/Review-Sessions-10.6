@@ -1,10 +1,19 @@
 // 1.----------------------------------
 // Write a function that takes in a string and returns a new string with every word capitalized. Write your own examples to call the function with.
+function capitalizedWords(string) {
+    // const newStr = 
+}
+
+console.log(capitalizedWords())
 
 // 2.----------------------------------
 // Write a function that takes in an object and returns a formatted greeting.
 // This is the format of the object - 
 
+function formatGreeting(obj) {
+    return (str) "Hello" + " " $`firstName` + " " +$`lastName` + "have a great day at your job as a" + " " +$`occupation` +" "
+
+}
 
 const john = {
     firstName: "John",
