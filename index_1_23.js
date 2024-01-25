@@ -11,8 +11,7 @@ console.log(capitalizedWords())
 // This is the format of the object - 
 
 function formatGreeting(obj) {
-    return (str) "Hello" + " " $`firstName` + " " +$`lastName` + "have a great day at your job as a" + " " +$`occupation` +" "
-
+    return `Hello + " ${obj.firstName} + " " +${obj.lastName} "," + have a great day at your job as a ${obj.occupation}`
 }
 
 const john = {
@@ -40,4 +39,4 @@ const john = {
     firstName: "John",
     lastName: "Klaus",
     occupation: "Carpenter"
-  }
+  } */
